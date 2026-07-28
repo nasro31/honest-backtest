@@ -1,0 +1,17 @@
+# Données téléchargées (régénérées automatiquement au premier lancement)
+donnees/
+*.csv
+*.json
+
+# Secrets — aucun n'est nécessaire ici, mais par sécurité
+.env*
+*.bak
+*.key
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+desktop.ini
